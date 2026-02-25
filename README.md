@@ -10,12 +10,6 @@ and developing end-to-end fullstack applications.
 <img src="https://komarev.com/ghpvc/?username=JBL-987&label=Profile%20views&color=0e75b6&style=flat" alt="JBL-987" />
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=JBL-987&theme=darkhub" alt="JBL-987" />
-</a>
-</p>
-
 <h3 align="left">Achievements:</h3>
 <ul>
 <li>🥇 1st Winner – 12th ICP HUB Hackathon 2025</li>
