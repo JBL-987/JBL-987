@@ -33,18 +33,22 @@ and developing end-to-end fullstack applications.
 </ul>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/jasonloi4" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="40" />
+<a href="https://twitter.com/jasonloi4" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/jason-brandon-loi-935b1b297/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/jason-brandon-loi-935b1b297/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://instagram.com/jbl._.loi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" height="30" width="40" />
+
+<a href="https://instagram.com/jbl._.loi" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://medium.com/jasonbrandonloi" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="30" width="40" />
+
+<a href="https://medium.com/jasonbrandonloi" target="_blank">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 </p>
 
