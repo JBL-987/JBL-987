@@ -24,11 +24,11 @@ and developing end-to-end fullstack applications.
 
 <h3 align="left">Achievements:</h3>
 <ul>
-<li>🥇 1st Winner – 12th ICP HUB Hackathon</li>
-<li>🥉 3rd Winner – 13th ICP HUB Hackathon</li>
+<li>🥇 1st Winner – 12th ICP HUB Hackathon 2025</li>
+<li>🥉 3rd Winner – 13th ICP HUB Hackathon 2025</li>
 <li>Top 10 Finalist – Google APAC Solution Challenge 2025</li>
-<li>Top 6 – Compsphere KAI Hackathon</li>
-<li>Participant – ICPC Asia Jakarta Regional Programming Contest (Solved 3 Problems)</li>
+<li>Top 6 – Compsphere KAI Hackathon 2025</li>
+<li>Participant – ICPC Asia Jakarta Regional Programming Contest 2025</li>
 <li>Participant – CSC Binus CTF Contest 2024</li>
 </ul>
 
@@ -94,6 +94,18 @@ and developing end-to-end fullstack applications.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+</a>
+
 </p>
 
 <p align="left">
@@ -109,6 +121,18 @@ and developing end-to-end fullstack applications.
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
 </a>
 
 </p>
@@ -134,6 +158,24 @@ and developing end-to-end fullstack applications.
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+<h3 align="left">Machine Learning & AI:</h3>
+
+<p align="left">
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 </a>
 
 </p>
