@@ -12,13 +12,7 @@ and developing end-to-end fullstack applications.
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=jbl-987&theme=darkhub" alt="jbl-987" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://twitter.com/jasonloi4" target="_blank">
-<img src="https://img.shields.io/twitter/follow/jasonloi4?logo=twitter&style=for-the-badge" alt="jasonloi4" />
+<img src="https://github-profile-trophy.vercel.app/?username=JBL-987&theme=darkhub" alt="JBL-987" />
 </a>
 </p>
 
