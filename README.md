@@ -7,7 +7,7 @@ and developing end-to-end fullstack applications.
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=jbl-987&label=Profile%20views&color=0e75b6&style=flat" alt="jbl-987" />
+<img src="https://komarev.com/ghpvc/?username=jbl-987&label=Profile%20views&color=0e75b6&style=flat" alt="JBL-987" />
 </p>
 
 <p align="left">
