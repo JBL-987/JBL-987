@@ -52,24 +52,24 @@ and developing end-to-end fullstack applications.
 
 <!-- Programming Languages -->
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,dart,go" />
+<img src="https://skillicons.dev/icons?i=python,go,java,cpp,c,cs,js,ts,dart" />
 </p>
 
 <!-- Web & Backend -->
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,html,css,pug,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,tailwind,html,css,pug,dotnet" />
 </p>
 
 <!-- Database -->
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-<!-- DevOps & MLOps -->
+<!-- DevOps & Infra -->
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,githubactions" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,githubactions,nginx" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
 <!-- Others -->
