@@ -52,12 +52,12 @@ and developing end-to-end fullstack applications.
 
 <!-- Programming Languages -->
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,java,cpp,c,cs,js,ts,dart" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,dart,go" />
 </p>
 
 <!-- Web & Backend -->
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,tailwind,html,css,pug,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,html,css,pug,dotnet" />
 </p>
 
 <!-- Database -->
