@@ -28,7 +28,7 @@ and developing end-to-end fullstack applications.
 <li>🥉 3rd Winner – 13th ICP HUB Hackathon</li>
 <li>Top 10 Finalist – Google APAC Solution Challenge 2025</li>
 <li>Top 6 – Compsphere KAI Hackathon</li>
-<li>Participant – ICPC Asia Jakarta Regional Programming Contest (Solved 3 Problems)</li>
+<li>Participant – ICPC Asia Jakarta Regional Programming Contest</li>
 <li>Participant – CSC Binus CTF Contest 2024</li>
 </ul>
 
