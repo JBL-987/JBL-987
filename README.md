@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jason Brandon Loi</h1>
-<h3 align="center">MLOps Enthusiast | Fullstack Developer | Computer Science Student from Indonesia</h3>
+<h1 align="center">Hi , I'm Jason Brandon Loi</h1>
+<h3 align="center">Computer Science Student from Indonesia In Binus University</h3>
 
 <p align="left">
-Passionate about building scalable systems, deploying machine learning models,
-and developing end-to-end fullstack applications.
+My Github Account Is Only For My Codes Archives
 </p>
 
 <p align="left">
