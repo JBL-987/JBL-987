@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student from Indonesia In Binus University</h3>
 
 <p align="left">
-My Github Account Is Only For My Codes Archives
+My Github Account Is Only For My Codes Archives An It Is Open Source (Unless It's A Private Repo :) )
 </p>
 
 <p align="left">
