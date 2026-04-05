@@ -170,3 +170,5 @@ My Github Account Is Only For My Codes Archives An It Is Open Source (Unless It'
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbl-987&theme=tokyonight" alt="jbl-987" />
 </p>
+
+![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
