@@ -1,26 +1,65 @@
-<h1 align="center">Hi , I'm Jason Brandon Loi</h1>
-<h3 align="center">Computer Science Student from Indonesia In Binus University</h3>
+```c
+/*
+===============================================
+      GitHub Profile Program - v1.0
+===============================================
+Author   : Jason Brandon Loi
+Role     : Computer Science Student
+Location : Indonesia
+University : BINUS University
+===============================================
+*/
 
-<p align="left">
-My Github Account Is Only For My Codes Archives An It Is Open Source (Unless It's A Private Repo :) )
-</p>
+#include <stdio.h>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=JBL-987&label=Profile%20views&color=0e75b6&style=flat" alt="JBL-987" />
-</p>
+struct Developer {
+    char name[50];
+    char role[50];
+    char university[50];
+    char country[50];
+};
 
-<h3 align="left">Achievements:</h3>
-<ul>
-<li>🥇 1st Winner – 12th ICP HUB Hackathon 2025</li>
-<li>🥉 3rd Winner – 13th ICP HUB Hackathon 2025</li>
-<li>Top 10 Finalist – Google APAC Solution Challenge 2025</li>
-<li>Top 6 – Compsphere KAI Hackathon 2025</li>
-<li>Participant – ICPC Asia Jakarta Regional Programming Contest 2025</li>
-<li>Participant – CSC Binus CTF Contest 2024</li>
-</ul>
+void printBanner() {
+    printf("=============================================\n");
+    printf("        Jason Brandon Loi\n");
+    printf("   Computer Science Student | BINUS\n");
+    printf("=============================================\n\n");
+}
 
-<h3 align="left">Languages and Tools:</h3>
+void printAbout() {
+    printf("[About]\n");
+    printf("- GitHub used mainly for code archives\n");
+    printf("- Most repositories are open source\n");
+    printf("- Some private repositories exist\n\n");
+}
 
+void printAchievements() {
+    printf("[Achievements]\n");
+    printf("1. 1st Winner  - 12th ICP HUB Hackathon 2025\n");
+    printf("2. 3rd Winner  - 13th ICP HUB Hackathon 2025\n");
+    printf("3. Top 10      - Google APAC Solution Challenge 2025\n");
+    printf("4. Top 6       - Compsphere KAI Hackathon 2025\n");
+    printf("5. Participant - ICPC Asia Jakarta Regional 2025\n");
+    printf("6. Participant - CSC Binus CTF Contest 2024\n\n");
+}
+
+int main() {
+
+    struct Developer dev = {
+        "Jason Brandon Loi",
+        "Computer Science Student",
+        "BINUS University",
+        "Indonesia"
+    };
+
+    printBanner();
+    printAbout();
+    printAchievements();
+    printf("Status: Ready to build cool things.\n");
+
+    return 0;
+}
+```
 <p align="left">
 
 <!-- Programming Languages -->
