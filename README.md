@@ -1,8 +1,6 @@
 ```c
 /*
 ===============================================
-      GitHub Profile Program - v1.0
-===============================================
 Author   : Jason Brandon Loi
 Role     : Computer Science Student
 Location : Indonesia
