@@ -205,7 +205,7 @@ int main() {
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbl-987&theme=tokyonight" alt="jbl-987" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-loi&theme=tokyonight" alt="bit-loi" />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
